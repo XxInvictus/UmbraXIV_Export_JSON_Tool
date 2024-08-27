@@ -12,7 +12,7 @@ Tool for encoding/decoding UmbraXIV exports to/from JSON
 - **_Requires Python 3.6+_**
 - Clone the repository
 - Install the required packages with `pip install -r requirements.txt`
-- Run the script using the usage instructions below or `python umbraxiv_export_json_tool.py` without arguments to view the help
+- Run the script using the usage instructions below or `python umbraxiv_export_json_tool.py -h` to view the help
 
 ## Usage
 _In all examples below replace values in `{}` with your own values_
